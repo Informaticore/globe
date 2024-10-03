@@ -1,2 +1,1 @@
-# globe
-GLOBE – Global Laboratory for Observing Biophysical Environments
+# GLOB - Global Laboratory for Observing Biophysical Environments
